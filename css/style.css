@@ -1,3 +1,11 @@
-body{
+body {
 	color: rgb(81, 81, 144);
+}
+
+p {
+	color: blueviolet;
+}
+
+h2 {
+	font-size: 50px;
 }
